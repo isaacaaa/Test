@@ -1,1 +1,1 @@
-print("add test2")
+print("add test2.py")
